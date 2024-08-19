@@ -9,11 +9,11 @@ const perguntas = [
     enunciado: "Pergunta 1",
     alternativas: [
         {
-            texto:"Alternativa 1",
-            afirmacao: "Afirmação 1"
+            texto:"você prefere café ou chá?",
+            afirmacao: "café"
         },
         {
-        texto:"Alternativa 2",
+        texto:"chá",
         afirmacao: "Afirmação 2"
         }
     ]
