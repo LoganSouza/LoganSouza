@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Você prefere café ou chá",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"Café",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"Chá",
         afirmacao: "afirmação 2"
         }
     ]
