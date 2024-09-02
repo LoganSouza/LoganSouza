@@ -20,15 +20,15 @@ const perguntas = [
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Você prefere Coca-Cola ou Pepsi?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+        texto: "Coca-Cola",
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"Pepsi",
         afirmacao: "afirmação 4"
         }
     ]
